@@ -62,7 +62,7 @@ gatsby new project-name https://github.com/LeKoArts/gatsby-starter-portfolio-car
 npm run develop
 ```
 
-### Adding new features/plugin
+### Adding new features/plugi
 
 You can add other features by having a look at the offical [plugins page](https://www.gatsbyjs.org/docs/plugins/)
 
