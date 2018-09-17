@@ -15,7 +15,7 @@ A portfolio starter for [Gatsby](https://www.gatsbyjs.org/). The target audience
 
 Based on [gatsby-tailwind-demo](https://github.com/jlengstorf/gatsby-tailwind-demo).
 
-## Why?
+## Wh?
 
 If you want to quickly bootstrap a design/photography portfolio or use it as a foundation for your personal site the _gatsby-starter-portfolio_ are a perfect fit for you! The project's goal is to offer minimalistic and fast websites.
 
