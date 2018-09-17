@@ -17,6 +17,7 @@
     "gatsby-plugin-react-helmet": "^3.0.0-beta.3",
     "gatsby-plugin-sharp": "^2.0.0-alpha.19",
     "gatsby-source-filesystem": "^2.0.0-alpha.15",
+    "gatsby-source-wordpress": "^2.0.93",
     "gatsby-transformer-sharp": "^2.0.1-13",
     "postcss": "^6.0.22",
     "postcss-cli": "^5.0.0",
@@ -37,7 +38,7 @@
   ],
   "scripts": {
     "develop": "gatsby develop -o",
-    "build": "gatsby build",
+    "build": "yarn run build",
     "lint": "eslint . --ext .js,.jsx --ignore-path .gitignore",
     "lint:fix": "eslint . --ext .js,.jsx --fix --ignore-path .gitignore",
     "predevelop": "postcss tailwind.css -o tailwind.custom.css",
