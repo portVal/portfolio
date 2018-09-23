@@ -105,7 +105,7 @@ const AboutHero = styled.div`
 `;
 
 const Avatar = styled.img`
-  ${tw('rounded-full w-32 xl:w-48 shadow-lg h-full')};
+  ${tw('rounded-full w-32 xl')};
 `;
 
 const AboutSub = styled.span`
@@ -304,7 +304,9 @@ const Index = () => (
           <BigTitle>
             Hi, <br /> I'm Valerie
           </BigTitle>
-          <Subtitle>I'm a software engineer based in LA.</Subtitle>
+          <Subtitle>I'm a software engineer based in LA. 
+            I love coding and coffee.
+          </Subtitle>
         </Hero>
       </Content>
       <DividerMiddle
@@ -335,7 +337,7 @@ const Index = () => (
               link="https://github.com/Rojdestv/Chill_Traveler"
               bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
             >
-              Used React Native, Geolocation API & Yelp API to create a travel app with top tourist desitnations based on user lcoation.
+              Used React Native, Geolocation API & Yelp API to create a travel app with top tourist desitnations.
             </ProjectCard>
             <ProjectCard
               title="Hogwarts Campus"
