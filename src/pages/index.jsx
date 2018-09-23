@@ -302,7 +302,7 @@ const Index = () => (
       <Content speed={0.4} offset={0}>
         <Hero>
           <BigTitle>
-            Hiya, <br /> I'm Valerie
+            Hi, <br /> I'm Valerie
           </BigTitle>
           <Subtitle>I'm a software engineer based in LA.</Subtitle>
         </Hero>
@@ -317,35 +317,32 @@ const Index = () => (
           <Title>Projects</Title>
           <ProjectsWrapper>
             <ProjectCard
-              title="Grace Shopper"
+              title="Capstone"
               link="https://www.behance.net/gallery/58937147/Freiheit"
               bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
             >
-              This project is my entry to Adobe's #ChallengeYourPerspective
-              contest.
+              Capstone Project at FSA
             </ProjectCard>
             <ProjectCard
-              title="Capstone"
-              link="https://www.behance.net/gallery/52915793/Harry-Potter"
+              title="LuxPerfume"
+              link="https://luxperfume.herokuapp.com/"
               bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
             >
-              I entered the DOCMA 2017 award with this Harry Potter inspired
-              image.
+             This project is an ecommerce site for luxury perfume - using React/Redux, Postgres, Express & Sequelize.
             </ProjectCard>
             <ProjectCard
-              title="Stackathon"
-              link="https://www.behance.net/gallery/43907099/Tomb-Raider"
+              title="Chill Traveler"
+              link="https://github.com/Rojdestv/Chill_Traveler"
               bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
             >
-              Recreation of a Tomb Raider Wallpaper (Fan Art)
+              Used React Native, Geolocation API & Yelp API to create a travel app with top tourist desitnations based on user lcoation.
             </ProjectCard>
             <ProjectCard
-              title="Hogwarts"
-              link="https://www.behance.net/gallery/38068151/Eagle"
+              title="Hogwarts Campus"
+              link="https://github.com/Rojdestv/senior-enrichment"
               bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
             >
-              A fantasy image manipulation relocating the habitat of wild
-              animals.
+              Hogwarts School Campus using React/Redux, Postgres, Express & Sequelize.
             </ProjectCard>
           </ProjectsWrapper>
         </Inner>
