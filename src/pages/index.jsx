@@ -304,7 +304,7 @@ const Index = () => (
           <BigTitle>
             Hi, <br /> I'm Valerie
           </BigTitle>
-          <Subtitle>I'm a software engineer based in LA. 
+          <Subtitle>I'm a software engineer based in LA. <br />
             I love coding and coffee.
           </Subtitle>
         </Hero>
