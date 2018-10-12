@@ -591,11 +591,7 @@ const Index = () => (
             </AboutSub>
           </AboutHero>
           <AboutDesc>
-            I found my passion for coding on the job while working with our CMS
-            software and Excel Modeling with VBA. I quickly became the go to person on
-            the team and realized that coding was something I was really interested in. So I did
-            alot of self studying and got accepted into Fullstack Academy(July 2018 - October 2018). 
-            I am currently looking for a full stack developer role while working on side projects I am interested in.
+           I love coding and coffee and this is my portfolio
           </AboutDesc>
         </Inner>
       </Content>
