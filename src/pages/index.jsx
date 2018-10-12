@@ -189,14 +189,14 @@ const Index = () => (
             top="90%"
           />
           <SVG
-            icon="triangle"
+            icon="box"
             width={16}
             stroke={colors['grey-darkest']}
             left="30%"
             top="65%"
           />
           <SVG
-            icon="circle"
+            icon="bpx"
             width={6}
             fill={colors['grey-darkest']}
             left="75%"
@@ -212,7 +212,7 @@ const Index = () => (
           />
         </UpDownWide>
         <SVG
-          icon="circle"
+          icon="box"
           className={hidden}
           width={24}
           fill={colors['grey-darker']}
